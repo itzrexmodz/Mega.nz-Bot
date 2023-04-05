@@ -4,3 +4,5 @@ filetype
 filesplit
 wget
 git+https://github.com/Itz-fork/pyro-mega.py.git
+flask
+flask_restful
